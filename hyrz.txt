@@ -1,0 +1,5 @@
+# hyrz, 0
+EasyAntiCheat_Setup\.exe
+UnrealCEFSubProcess\.exe
+NARUTO-Win64-Shipping\.exe
+NARUTO\.exe
